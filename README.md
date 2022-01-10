@@ -10,4 +10,4 @@
 
 - Open the installation folder 
 - Look for the file named ``Omicron2.exe`` : double-click it, and enjoy!
-- (optional) Add this file to your desktop by creating a shortcut (right-click -> ``Create a shortcut`` -> cut+paste on desktop)
+- (optional) Add Omicron to your desktop by creating a shortcut (right-click -> ``Create a shortcut`` -> cut+paste on desktop)
