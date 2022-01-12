@@ -5,9 +5,7 @@ const google = 'https://www.google.com/search?q=';
 function submitted(event) {
   event.preventDefault();
   const url = google + '+' + q.value;
-  location.href = url;
-  //const win = window.open(url, '_blank');
-  //win.focus();
+  const win = window.open(url, '_self');
 }
 
 f.addEventListener('submit', submitted);
